@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multilanguage-App-Android</string>
+    <string name="greeting">¡Hola %1$s!</string>
+</resources>
